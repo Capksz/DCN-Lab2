@@ -1,8 +1,6 @@
-This is the upload for the NYU DCN class lab 2.
+This is the upload for the NYU DCN class labs.
 
-Sample App
+The time_app contains lab 2.
 
-Sample Python Flask application to showcase the steps of building and running a web server with Docker.
+The dns_app contains lab 3.
 
-Docker: https://www.docker.com/
-Flask documentation: https://flask.palletsprojects.com/en/1.1.x/
