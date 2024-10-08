@@ -1,0 +1,1 @@
+curl -X PUT -H "Content-Type: application/json" -d "{\"hostname\":\"fibonacci.com\", \"ip\":\"127.0.0.1\", \"as_ip\":\"127.0.0.1\", \"as_port\":53533}" http://127.0.0.1:9090/register
